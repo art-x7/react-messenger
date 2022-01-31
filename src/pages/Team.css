@@ -1,0 +1,51 @@
+.teamPortfolio {
+  flex-direction: column;
+  text-align: center;
+  }
+
+.teamMember {
+  margin-top: 10px;
+  display: block;
+  
+}
+
+.teamIntro {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.teamColumn {
+  float: left;
+  width: 50%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.memberCard {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: white;
+  padding: 20px;
+  margin-right: 15px;
+  border-radius: 5px;
+}
+
+.teamMember {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.images {
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.title {
+  margin-top: 10px;
+  font-size: 18px;
+  color: grey;
+}
+
+.links {
+  margin-top: 10px;
+}
