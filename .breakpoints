@@ -1,0 +1,20 @@
+{
+  "files": {
+    "src/components/Navbar.css": [
+      {
+        "id": "a54cf851-f65c-49d6-a1c5-f4839f1664f3",
+        "line": 1,
+        "version": 817,
+        "index": 0
+      }
+    ],
+    "src/components/Navbar.jsx": [
+      {
+        "id": "fc4541b8-db59-404c-9eac-b591d7c3e91b",
+        "line": 10,
+        "version": 881,
+        "index": 308
+      }
+    ]
+  }
+}
