@@ -17,7 +17,7 @@ export default function Team () {
             <div className='memberCard'>
               <img className='images' src='src/static/images/front.jpg' alt='no found' />
               <div className='frontend'>
-                <p className='teamMember'>Artem Pasko</p>
+                <p className='teamMember'>Art-x7</p>
                 <p class="title">Front-End</p>
               </div>
               <div className='links'> 
@@ -31,7 +31,7 @@ export default function Team () {
             <div className='memberCard'>
               <img className='images' src='src/static/images/back.jpg' alt='no found' />
               <div className='frontend'>
-                <p className='teamMember'>Andrey Adnaguzin</p>
+                <p className='teamMember'>Funny_octopus</p>
                 <p class="title">Back-End</p>
               </div>
               <div className='links'> 
