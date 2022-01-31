@@ -10,6 +10,7 @@
 .home,
 .team,
 .reports,
+.editProfile,
 .profile {
   display: flex;
   height: 100vh;
@@ -17,4 +18,10 @@
   justify-content: center;
   font-size: 1.5rem;
   background-color: #c1c8e4;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+  vertical-align: middle;
 }

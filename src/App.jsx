@@ -8,6 +8,7 @@ import Home from './pages/Home'
 import Profile from './pages/Profile'
 import Messenger from './pages/Messenger'
 import Team from './pages/Team'
+import EditProfile from './pages/EditProfile'
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
         <Route path="/" element={<Home />}/>
         <Route path="/messages" element={<Messenger />}/>
         <Route path="/profile" element={<Profile />}/>
+        <Route path="/edit" element={<EditProfile />}/>
         <Route path="/team" element={<Team />}/>
       </Routes>
     </>

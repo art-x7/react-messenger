@@ -1,0 +1,48 @@
+.card {
+  background-color: white;
+  width: 100%;
+  max-width: 400px;
+  height: 500px;
+  text-align: center;
+  padding: 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.profileTitle {
+  text-align: left;
+}
+
+.csardImages {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 10px;
+}
+
+.topCard, .midCard, .botCard, .btnCard {
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.midCard {
+  font-size: 18px;
+  color: gray;
+}
+
+.botCard {
+  font-size: 16px;
+}
+
+.btnCard {
+  width: 70px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #8860D0;
+  color: white;
+  text-decoration: none;
+}
+
