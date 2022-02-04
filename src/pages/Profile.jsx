@@ -20,8 +20,7 @@ export default function Profile () {
             <p>This's my profile. I love Paris. Have a nice day!</p>
           </div>
           <div className='btnCard'>
-            <Link to='/edit'>Edit
-            </Link>
+            <Link to='/edit'>Edit</Link>
           </div>
         </div>   
       </div>

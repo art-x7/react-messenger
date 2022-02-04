@@ -18,7 +18,7 @@ export default function Team () {
               <img className='images' src='src/static/images/front.jpg' alt='no found' />
               <div className='frontend'>
                 <p className='teamMember'>Art-x7</p>
-                <p class="title">Front-End</p>
+                <p class="title">Front End</p>
               </div>
               <div className='links'> 
                 <TiIcons.TiSocialFacebook />
@@ -32,7 +32,21 @@ export default function Team () {
               <img className='images' src='src/static/images/back.jpg' alt='no found' />
               <div className='frontend'>
                 <p className='teamMember'>Funny_octopus</p>
-                <p class="title">Back-End</p>
+                <p class="title">Back End</p>
+              </div>
+              <div className='links'> 
+                <TiIcons.TiSocialFacebook />
+                <TiIcons.TiSocialTwitter />
+                <TiIcons.TiSocialInstagram />
+              </div>
+            </div>
+          </div> 
+          <div className='teamColumn'>
+            <div className='memberCard'>
+              <img className='images' src='src/static/images/director.jpg' alt='no found' />
+              <div className='frontend'>
+                <p className='teamMember'>Kay Dee</p>
+                <p class="title">Idea Director</p>
               </div>
               <div className='links'> 
                 <TiIcons.TiSocialFacebook />
